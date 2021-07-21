@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SimonaElenaa
+- 👀 I’m interested in learning Web Development
+- 🌱 I’m currently learning HTML, CSS and JavaScript
